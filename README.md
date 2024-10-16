@@ -1,6 +1,7 @@
 # waffles
 
 Does Kardi like waffles?
+
 yes
 ![Pamukkale](https://wallpapercave.com/wp/wp7408173.jpg)
 ##PAMUKKALE
@@ -26,4 +27,9 @@ Source:
 [2]:https://en.wikipedia.org/wiki/Badab-e_Surt
 [3]:https://en.wikipedia.org/wiki/Mammoth_Hot_Springs
 [4]:https://en.wikipedia.org/wiki/Pink_and_White_Terraces
+
+=======
+
+
+
 
